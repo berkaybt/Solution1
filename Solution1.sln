@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35521.163 d17.12
+VisualStudioVersion = 17.12.35521.163
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpEgitimKampi301.EntityLayer", "CSharpEgitimKampi301.EntityLayer\CSharpEgitimKampi301.EntityLayer.csproj", "{CF4CAD06-34F0-46EA-8846-C691B9E27DDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpEgitimKampi301.DataAccessL.ayer", "CSharpEgitimKampi301.DataAccessL.ayer.\CSharpEgitimKampi301.DataAccessL.ayer.csproj", "{5843929D-8D60-46CE-BCE0-B92F153B2F7A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{CF4CAD06-34F0-46EA-8846-C691B9E27DDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF4CAD06-34F0-46EA-8846-C691B9E27DDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF4CAD06-34F0-46EA-8846-C691B9E27DDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5843929D-8D60-46CE-BCE0-B92F153B2F7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5843929D-8D60-46CE-BCE0-B92F153B2F7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5843929D-8D60-46CE-BCE0-B92F153B2F7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5843929D-8D60-46CE-BCE0-B92F153B2F7A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
